@@ -77,7 +77,7 @@ Safeguards national security against cyber terrorism.
 
 Promotes trust in digital economy & e-governance.
 
-⚡ Quick Note for Exams & Posts
+⚡ Quick Note :-
 
 👉 IT Act, 2000 = India’s main cyber law.
 
